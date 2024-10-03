@@ -1,1 +1,1 @@
-# Comp-359-Assignment-2
+# Comp 359 Assignment 2
