@@ -15,9 +15,9 @@ Our topic
    
 ## Contributions:
 
-Nicole - C++ Code and README <br>
-Teny - Python code <br>
-Arvin - Java code <br>
+Nicole - C++ Code using grid graph/prism graph and README <br>
+Teny - Python code using grid graph/book graph <br>
+Arvin - Java code using grid graph/crown graph <br>
 
 ## Introduction into Graph Cartesian Product
 
